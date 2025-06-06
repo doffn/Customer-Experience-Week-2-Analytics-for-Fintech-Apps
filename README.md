@@ -1,1 +1,2 @@
-# Customer-Experience-Week-2-Analytics-for-Fintech-Apps
+# Week 2 Project: Customer Experience Analytics for Fintech Apps
+
