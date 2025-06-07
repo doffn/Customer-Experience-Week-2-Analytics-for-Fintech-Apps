@@ -6,4 +6,6 @@ nltk
 textblob
 yfinance
 pynance
-TA-Lib
+emoji
+google-play-scraper
+googletrans==4.0.0-rc1
